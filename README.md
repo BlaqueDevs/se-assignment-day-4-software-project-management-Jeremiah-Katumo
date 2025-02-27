@@ -61,8 +61,13 @@ Example a school management system solves issues like payment tracking, balance 
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 1. Industry market size and growth trend
-2. Competitor analysis
-3. Target and audience adoption rates
-4. Revenue potential like monthly subscriptions per user etc
+2. Competitor analysis. Compare performances with competitors.
+3. Target and audience adoption rates.
+4. Revenue potential like monthly subscriptions per user etc.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+1. It helps in identifying customer needs and pain points.
+2. Helps in identifying differences in your software with competitor's software.
+3. It helps in selecting the best business model for the software.
+4. Adapting to shifts in technology shifts and innovations.
+5. It also helps in expanding the market when a need is realised.
