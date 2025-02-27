@@ -60,4 +60,9 @@ Example a school management system solves issues like payment tracking, balance 
 8. Offline mode and data sync
 
 ## 12. What data is available regarding the market size and growth potential for your software?
+1. Industry market size and growth trend
+2. Competitor analysis
+3. Target and audience adoption rates
+4. Revenue potential like monthly subscriptions per user etc
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
