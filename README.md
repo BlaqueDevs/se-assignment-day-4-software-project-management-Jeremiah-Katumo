@@ -35,6 +35,8 @@ Agile is used in software startups and SaaS development, mobile and web developm
 ** A gantt chart is a visual project management tool that displays tasks, duration and dependencies and progress over time in bar chart form. Helps in task scheduling, progress tracking, resource managemet, milestone setting
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Example a school management system solves issues like payment tracking, balance updates. A church management system thet solves event planning, attendance tracking and donations.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
