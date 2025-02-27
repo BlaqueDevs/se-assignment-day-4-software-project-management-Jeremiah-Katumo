@@ -38,7 +38,26 @@ Agile is used in software startups and SaaS development, mobile and web developm
 Example a school management system solves issues like payment tracking, balance updates. A church management system thet solves event planning, attendance tracking and donations.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+1. It helps reduce time in developing a solution and ensure it solves the problem.
+2. It also reduces cost of solving the problem and in the entire process.
+3. Improves testing and quality assurance.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+1. Hook is starting the project description with a bang
+2. State the problem
+3. Offer solution to the problem statement
+4. Show a demo of how the solution solves the problem
+5. Then add a call to action like donations
+
 ## 11. What are the main features or functionalities that make your software stand out?
+1. UI/UX with easy navigations and responsiveness
+2. Automation and smart warkflows like automated notifications and remainders
+3. Role based access and security - make sure each user is able to assigned a specific role with specific permissions like read, write, update and delete.
+4. Ensure it handles real time data and reporting - reports can be created for monthly, weekly, semi-annually etc
+5. Seamless Intergrations
+6. Scalability and Customization
+7. Multi-language and localization
+8. Offline mode and data sync
+
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
