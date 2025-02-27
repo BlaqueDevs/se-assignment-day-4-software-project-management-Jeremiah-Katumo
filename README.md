@@ -22,7 +22,18 @@ Agile is used in software startups and SaaS development, mobile and web developm
 ** It is important to maintain high standards as it reduces costs and rework, boosts development efficiency, prevents business risks.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+** Cleary defining the project scope is critical in planning as it sets clear boundaries, deliverables and expectations by enhancing risk management and resource allocation and providing a clear roadmap. 
+** A WBS is a hierarchical decomposition of a project into smaller, manageable components. It visually organizes the project into levels, breaking down the work into phases, tasks, and subtasks. It enhances clarity, improves task assignment, effective cost and time estimation and facilitates project tracking. It also minimizes risks.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+1. Clear timelines and milestones
+2. Helps in resource allocation and workload balance
+3. Improves risk management
+4. Enhanced collaboration
+5. Increased accountability
+6. Better cost control
+** A gantt chart is a visual project management tool that displays tasks, duration and dependencies and progress over time in bar chart form. Helps in task scheduling, progress tracking, resource managemet, milestone setting
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
